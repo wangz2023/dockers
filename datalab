@@ -1,0 +1,4 @@
+#For don't connect to gcr.io in china.
+FROM gcr.io/cloud-datalab/datalab:local-20170224
+
+MAINTAINER siriuszg <513009828@qq.com>
